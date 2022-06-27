@@ -1,6 +1,8 @@
 # terraform_ec2_openvpn
-Deploy OpenVPN to AWS with Terraform 🕵️ 🌐
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+Deploy OpenVPN to AWS with Terraform 🕵️ 🌐
 
 
 ## Abstract

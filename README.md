@@ -1,5 +1,7 @@
 # terraform_ec2_openvpn
 Deploy OpenVPN to AWS with Terraform 🕵️ 🌐
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Abstract
 *OpenVPN* is a virtual private network (VPN) system that implements techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. 
